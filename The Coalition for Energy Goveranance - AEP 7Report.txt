@@ -1,0 +1,185 @@
+Report created: 
+	1/25/2021	1:51:42 PM
+
+Project name: The Coalition for Energy Goveranance - AEP 7.aep
+
+Source files collected to: 
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\Collected Files\The Coalition for Energy Goveranance - AEP 7 folder
+
+Source files collected: All
+
+Collected comps:  
+	__MAIN__
+	Letterbox 1
+	Refinery
+	Simple Distorted Zoom Out
+	Zoom & Twirl & Chroma Split & Shake
+	scene2_pillar
+	Pillars animation
+	maginification
+	subtitles
+	Mallet
+	Pan Short
+	Placeholder 1
+	Placeholder 2
+	Placeholder 3
+	Placeholder 4
+	Placeholder 5
+	Placeholder 6
+	Placeholder 7
+	Placeholder 8
+	Placeholder 9
+	Placeholder 10
+	Particle Fireworks
+	Rotate
+	cicrcle_humans
+	Circle Stroke Custom Duration
+	Zoom & Twirl & Chroma Split & Shake 2
+	circle_humans_hands
+	Logos
+	Calendar
+	jan
+	jan 2
+	jan 3
+	jan 4
+	jan 5
+	jan 6
+	jan 7
+	Circles From Center 2-color
+	Lines
+	Glitter
+	Placeholder 1
+	Placeholder 2
+	Placeholder 3
+	Placeholder 4
+	Placeholder 5
+	Placeholder 6
+	Placeholder 7
+	Placeholder 8
+	Placeholder 9
+	Placeholder 10
+	Particle Fireworks 2
+	Lines 2
+	reveal_text_animation
+	Rectangle Stroke Fixed Duration
+	leaf
+	curve\
+	Zoom & Rotate Out
+	coins
+	Hand
+	Refinery 2
+	cog animation
+	Simple Distorted Zoom Out 2
+	end logos
+	Glitter 2
+	Circle Stroke Custom Duration 2
+	Circle Stroke Custom Duration 3
+	
+Number of collected files:  45
+
+Size of collected files:  30.5 MB
+
+Collected source files: 
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\After Effects file\AC Footage\Sounds\Fireworks Reverb 01.wav
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\After Effects file\AC Footage\Sounds\Glitter 04_Variant Plus 6.wav
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\After Effects file\AC Footage\Sounds\Slide Box Low Long 01.wav
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\After Effects file\AC Footage\Sounds\Slide Cloth Medium 01.wav
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\After Effects file\AC Footage\Sounds\Slide Cloth Medium 02.wav
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\After Effects file\AC Footage\Sounds\Slow Motion 17.wav
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\After Effects file\AC Footage\Sounds\Slowdown 06.wav
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\After Effects file\AC Footage\Sounds\Slowdown 07.wav
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\After Effects file\AC Footage\Sounds\Starter Sounds\Swoosh\Swoosh 01 - 01.wav\Swoosh 01 - 01.wav
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\After Effects file\AC Footage\Sounds\Swoosh Transition 03.wav
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\After Effects file\AC Footage\Sounds\Transition Complex 11.wav
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\After Effects file\AC Footage\Sounds\Transition Complex 14.wav
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\Imports\Sounds\Final Audio ( Corected)-1 (1).m4v
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\Imports\Vectors\44134.eps
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\Imports\Vectors\Hand.ai
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\Imports\Vectors\leaf.ai
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\Imports\Vectors\Mallet.ai
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\Imports\Vectors\noun_Pillar_226432.png
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\Imports\Vectors\noun_refinery_2570755.png
+	C:\Users\jadje\Desktop\The Coalition for Energy Governance - Project\Imports\Vectors\Refinery.ai
+	C:\Users\jadje\Downloads\1_hBlwzfetQsZBtUZUl3YDxw.jpeg
+	C:\Users\jadje\Downloads\ALDIC Logo HR.jpg
+	C:\Users\jadje\Downloads\Black on Transparent.png
+	C:\Users\jadje\Downloads\Coalition for energy governance_Final logo-02.png
+	C:\Users\jadje\Downloads\EITI-logo.png
+	C:\Users\jadje\Downloads\gherbal.JPG
+	C:\Users\jadje\Downloads\jwf.jpg
+	C:\Users\jadje\Downloads\KULLUNA IRADA  LOGO .png
+	C:\Users\jadje\Downloads\LOGI-logo standard.png
+	C:\Users\jadje\Downloads\ltaa.JPG
+	C:\Users\jadje\Downloads\NDU.png
+	C:\Users\jadje\Downloads\noun_Circle_2821232.png
+	C:\Users\jadje\Downloads\noun_cog_2474150.png
+	C:\Users\jadje\Downloads\noun_coin_61436.png
+	C:\Users\jadje\Downloads\noun_Handshake_2878257.png
+	C:\Users\jadje\Downloads\noun_Human_3612372.png
+	C:\Users\jadje\Downloads\noun_open wide arms_1880669.png
+	C:\Users\jadje\Downloads\noun_Pillar_2896333.png
+	C:\Users\jadje\Downloads\noun_refinery_2570755.png
+	C:\Users\jadje\Downloads\noun_Search_3609763.png
+	C:\Users\jadje\Downloads\noun_triangle_2281349.png
+	C:\Users\jadje\Downloads\OPES Logo.png
+	C:\Users\jadje\Downloads\PWYP-logo (2).png
+	C:\Users\jadje\Downloads\PWYP-logo.png
+	C:\Users\jadje\Downloads\VO+MUSIC.wav
+	
+Rendering plug-ins:
+	CINEMA 4D
+	Classic 3D
+	
+Effects used:  23
+
+Effect:  
+	
+Effect:  Angle Control
+	
+Effect:  Bulge
+	
+Effect:  CC Composite
+	
+Effect:  CC Page Turn
+	
+Effect:  Checkbox Control
+	
+Effect:  Color Control
+	
+Effect:  Drop Shadow
+	
+Effect:  Emboss
+	
+Effect:  Fill
+	
+Effect:  Gaussian Blur (Legacy)
+	
+Effect:  Grid
+	
+Effect:  Magnify
+	
+Effect:  Motion Tile
+	
+Effect:  Optics Compensation
+	
+Effect:  Point Control
+	
+Effect:  Puppet
+	
+Effect:  Slider Control
+	
+Effect:  Solid Composite
+	
+Effect:  Tint
+	
+Effect:  Trace Path
+	
+Effect:  Transform
+	
+Effect:  Twirl
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “AbdoLine”, Font style: “Regular”
+
